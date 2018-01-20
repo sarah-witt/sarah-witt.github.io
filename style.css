@@ -1,0 +1,24 @@
+
+#name {
+	text-align: center;
+}
+.navbar-nav>li{
+	float: left;
+}
+
+p{
+	font-size: 24;
+}
+.well{
+  align-self: center;
+  color: rgb(49, 134, 134);
+  height: %50;
+  width: %20;
+  background: rgb(165, 221, 221);
+  border-radius: 10px;
+  padding: 10px;
+  display: inline-block;
+  margin: 15px;
+  vertical-align: top;
+  text-align: center;
+}
