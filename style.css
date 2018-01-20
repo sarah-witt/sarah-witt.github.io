@@ -1,6 +1,7 @@
 
 #name {
 	text-align: center;
+	font-family: 'Limelight', cursive;
 }
 .navbar-nav>li{
 	float: left;
@@ -12,13 +13,14 @@ p{
 .well{
   align-self: center;
   color: rgb(49, 134, 134);
+	font-family: 'Poiret One', cursive;
   height: %50;
-  width: %20;
+  width: %50;
   background: rgb(165, 221, 221);
   border-radius: 10px;
   padding: 10px;
   display: inline-block;
-  margin: 15px;
+  margin: auto;
   vertical-align: top;
   text-align: center;
 }
